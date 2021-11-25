@@ -8,6 +8,6 @@ public class ClassBlahBlahBlah {
 	}
 	
 	public static void addNum(int x, int y) {
-		System.out.println(x=y);
+		System.out.println(x + y);
 	}
 }
